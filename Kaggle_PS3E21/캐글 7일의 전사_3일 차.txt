@@ -1,0 +1,18 @@
+캐글 7일의 전사_3일 차
+[오후 9:01 2023-09-10]
+
+■ 내용
+- 김윤겸: 
+	> 스케일링 시도: 퍼블릭 스코어=14.XX....???
+- 박소현: 
+	> Z-Score를 추가해서 이상치 제거를 추가로 진행
+	> 이상치 설정 방식 hyper parameter tuning 집중
+	> https://www.kaggle.com/code/satyaprakashshukl/local-outlier-factor-solation-quality-infer
+- 손지아:
+	> 배드 라벨 제거 디스커션
+	> https://www.kaggle.com/competitions/playground-series-s3e21/discussion/434519 
+- 제출 방식
+	> 두 가지 방법론 픽스하고 업데이트 해보기
+
+■ 다음 회의
+- 월요일 오전 9시 이후 5번 제출하고 select

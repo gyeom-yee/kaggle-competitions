@@ -1,0 +1,14 @@
+캐글 7일의 전사_1일 차
+[오후 8:39 2023-09-06]
+
+■ 내용
+- 9/10일까지 각자 제출하고 UTC 기준 0시 이후 팀 병합
+	> 총 일일 제출 수가 해당 날짜까지의 총 제출 한도(일일 한도 x 일수)를 초과하는 팀은 병합할 수 없음
+	> 마감까지 각자 10회
+- 각자 인상깊게 본 노트북
+	> 손지아: https://www.kaggle.com/competitions/playground-series-s3e21/discussion/434376
+	> 박소현: https://www.kaggle.com/code/achusanjeev/best-hyperparameter-tuning-for-this-dataset
+	> 김윤겸: https://www.kaggle.com/code/alvinleenh/ps3e21-6-basic-feature-selection-techniques
+
+■ 다음 회의
+- 금요일(9.8) 오전 10시

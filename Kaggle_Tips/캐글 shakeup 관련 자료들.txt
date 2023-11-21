@@ -1,0 +1,5 @@
+캐글 shakeup 관련 자료들
+- 포럼에서 shakeup이란 단어가 언급한 것들 모음
+	> https://www.kaggle.com/code/jtrotman/shakeup-the-story-so-far/notebook
+- kaggle shakeup에서 살아남기(미디엄)
+	> https://medium.com/global-maksimum-data-information-technologies/kaggle-handbook-fundamentals-to-survive-a-kaggle-shake-up-3dec0c085bc8

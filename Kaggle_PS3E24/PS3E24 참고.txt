@@ -1,0 +1,2 @@
+■ EDA
+- https://www.kaggle.com/code/kimtaehun/comprehensive-eda-to-xgboost-a-prediction
